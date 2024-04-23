@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://fishwash.github.io/jfox-website-v2/",
   "dependencies": {
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^5.0.0",
     "react": "^16.9.0",
     "react-bootstrap": "^1.0.0-beta.12",
     "react-copy-to-clipboard": "^5.0.1",
